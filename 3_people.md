@@ -21,22 +21,6 @@ people:
     about: I enjoy spending time with my family and my dog.
     picture: julia_profile.jpg
 
-  - name: Iris Jarsch
-    cv: |
-      **Position**: ERC Research Associate, joined the lab in August 2014.  
-      **Previous positions**: Diploma in Genetics at LMU Munich; Dr. rer. nat. in the laboratory of Thomas Ott, LMU, Munich, studying the role of remorin proteins and membrane compartmentalisation in plant defence.  
-    research: Discovering functional connections between the components of the filopodial tip complex.
-    about: I like sports, travelling, cooking, meeting friends and spending time out in nature.
-    picture: iris-profile.jpg
-
-  - name: Hanae Shimo
-    cv: |
-      **Position**: Funai Overseas Scholarship PhD student (Biochemistry), joined the lab in September 2014.  
-      **Previous positions**: M.S. in Systems Biology at Keio University
-    research: Investigating the molecular architecture of filopodia-like structures using super-resoultion microscopy
-    about: I enjoy traveling, photography, and playing guitar.
-    picture: hanae-profile.jpg
-
   - name: Jonathan Gadsby
     cv: |
       **Position**: ERC Research Associate, joined the lab in January 2015.    
@@ -53,21 +37,20 @@ people:
     about: I enjoy spending time with my family, tinkering, hiking, skiing and reading a good book.
     picture: uli-profile.jpg
 
-  - name: Benjamin Richier
-    cv: |
-      **Position**: ERC research associate, joined the lab in November 2015.  
-      **Previous positions**: PhD in Gif sur Yvette, France in the lab of François Rouyer at the INAF studying circadian rhythms in Drosophila then Postdoc in the lab of Iris Salecker at the NIMR in London where I worked on the development and morphogenesis of glial cells in the Drosophila visual system.  
-    research: I use Drosophila to study actin regulation and filopodia formation in vivo.
-    about: I like climbing, hiking and all sports/activities that require a good balance.
-    picture: ben-profile.jpg  
-
   - name: Bishara Marzook
     cv: |
-      **Position**: ERC research associate; joined the lab in October 2017.  
-      **Previous positions**: PhD student at The University of Sydney, Australia, in Virology and Cell Biology. I worked on generating recombinant fluorescent viruses to study how vaccinia virus interacts with the host cytoskeleton, particularly with cytoplasmic actin isoforms.  
+      **Position**: ERC research associate; joined the lab in October 2017.
+      **Previous positions**: PhD student at The University of Sydney, Australia, in Virology and Cell Biology. I worked on generating recombinant fluorescent viruses to study how vaccinia virus interacts with the host cytoskeleton, particularly with cytoplasmic actin isoforms.
     research: I am interested in all things actin-related, focusing at the moment on filopodia formation. Also keeping on eye on the virus world!
     about: I love to communicate (by writing, telling jokes, or through radio/social media), bake, and take long walks/hikes to offset said baking.
-    picture: bishara-profile.jpg  
+    picture: bishara-profile.jpg
+
+  - name: Pantelis Savvas Ioannou
+    cv: |
+      **Position**: MedImmune PhD Student
+    research:
+    about:
+    picture: pantelis.jpg
 
 alumni_postdocs:
   - name: Astrid Walrant

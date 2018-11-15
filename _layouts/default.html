@@ -1,0 +1,188 @@
+<html>
+  <head>
+    <meta charset="utf-8"> 
+    <title>Gallop Lab</title>
+    <link rel="shortcut icon" href="/~galloplab/images/favicon.ico">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <style>
+      body {
+      padding: 0px;
+      margin: 0px;
+      font-family: Helvetica,Arial,sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      background-color: EBF2FF;
+      }
+
+      h1 {
+      font-weight: 300;
+      font-size: 2.5em;
+      letter-spacing: -1px;
+      }
+
+      h2 {
+      font-weight: 300;
+      font-size: 2.1em;
+      letter-spacing: -1px;
+      margin-bottom: 15px;
+      }
+
+      h3 {
+      font-weight: 300;
+      font-size: 1.8em;
+      letter-spacing: -1px;
+      margin-bottom: 15px;
+      }
+
+      h4 {
+      font-weight: 300;
+      font-size: 1.5em;
+      letter-spacing: -1px;
+      margin-bottom: 15px;
+      }
+      
+      header.site-header {
+      background-image: url(images/bg.jpg);
+      background-size: cover;
+      background-position: bottom;
+      height: 16em;
+      padding-top: 0.1em;
+      }
+      header.site-header div {
+      width: 100%;
+      }
+      header.site-header div div.title {
+      width: 50em;
+      margin: 0 auto;
+      margin-top: 0.5em;
+      background-color: white;
+      opacity: 0.6;
+      }
+      div.title h1 {
+      margin: 0px;
+      margin-left: 0.25em;
+      }
+      div.title h1 a {
+      color: inherit;
+      text-decoration: inherit;
+      padding-left: 0.25em;
+      padding-right: 0.25em;
+      }
+      div.title h1 a:hover {
+      background-color: #aaaaaa;
+      color: #ffffff;
+      }
+      header.site-header div.navbar nav {
+      width: 50em;
+      margin: 0 auto;
+      text-align: right;
+      background-color: white;
+      opacity: 0.6;
+      }
+      header.site-header div.navbar nav ul {
+      display: inline;
+      }
+      header.site-header div.navbar nav ul li {
+      display: inline;
+      font-weight: 300;
+      font-size: 1em;
+      letter-spacing: 0px;      
+      padding-right: 0.25em;
+      padding-left: 0.25em;
+      text-transform: uppercase;
+      }
+      header.site-header div.navbar nav ul li:hover {
+      background-color: #aaaaaa;
+      color: #ffffff;
+      }
+      header.site-header div.navbar nav ul li a {
+      color: inherit;
+      text-decoration: none;
+      }
+      div.outer {
+      width: 100%;
+      }
+      div.content {
+      width: 50em;
+      margin: 0 auto;
+      margin-bottom: auto;
+      }
+
+      header.site-header div.logobar {
+      width: 50em;
+      height: 10em;
+      margin: 0 auto;
+      vertical-align: middle;
+      }
+      header.site-header div.logobar img.logo {
+      height: 10em;
+      float: left;
+      }
+      header.site-header div.logobar img.gurdon {
+      margin-top: 2em;
+      height: 6em;
+      float: right;
+      }
+
+      ul.post-list {
+      list-style-type: none;
+      padding: 0;
+      }
+      ul.post-list li span.newsmonth {
+      padding-right: 1em;
+      font-weight: 600;
+      }
+      ul.post-list li span.content p {
+      margin: 0px;
+      padding-bottom: 0.5em;
+      }
+      ul.post-list li {
+      padding-bottom: 1em;
+      }
+
+      p.about-paragraph {
+      font-weight: bold;
+      }
+
+blockquote.research {
+font-size: 1.15em;
+margin: 0.25em 0;
+padding: 0.35em 40px;
+line-height: 1.45;
+position: relative;
+color: #383838;
+}
+
+    </style>
+    {{ page.header }}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="logobar">
+	<img class="logo" src="images/logo.png"/>
+	<img class="gurdon" src="images/gurdon.png"/>
+      </div>
+      <div class="titlebar">
+	<div class="title">
+	  <h1><a class="site-title" href="/~galloplab/">{{ site.title }}</a></h1>
+	</div>
+      </div>
+      <div class="navbar">
+	<nav>
+	  <ul>
+            {% for page in site.pages %}
+            {% if page.title %}
+            <li><a class="page-link" href="/~galloplab/{{ page.url }}">{{ page.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+	  </ul>
+	</nav>
+      </div>
+    </header>
+    <div class="outer">
+      <div class="content">
+	{{ content }}
+      </div>
+    </div>
+  </body>
+</html>

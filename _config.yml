@@ -1,0 +1,9 @@
+# Site settings
+title: Gallop Lab
+description: 
+baseurl: "/~galloplab/" # the subpath of your site, e.g. /blog/
+url: "http://www2.gurdon.cam.ac.uk/" # the base hostname & protocol for your site
+twitter_username: galloplab
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,146 @@
+---
+title: Photos
+layout: default
+header: <link href="/~galloplab/css/lightbox.css" rel="stylesheet">
+albums:
+  - title: Gurdon Institute Xmas Party December 2017
+    images:
+      - 2017XmasParty_1.jpeg
+      - 2017XmasParty_2.jpeg
+      - 2017XmasParty_3.jpg
+      - 2017XmasParty_4.jpg
+
+  - title: Helen's viva December 2017
+    images:
+      - HelenViva_1.jpg
+      - HelenViva_2.jpg
+      - HelenViva_3.jpg
+      - HelenViva_4.jpg
+
+  - title: Gallop lab November 2017
+    images:
+      - labphoto2017.png
+
+  - title: Summer Celebrations 2017
+    images:
+      - Funinlab_Gardenparty.JPG
+      - Funinlab_Gardenparty2.JPG
+      - JCBChampagne2.JPG
+      - JCBChampagne3.jpg
+      - JCBChampagne5.JPG
+      - JCBChampagne4.JPG
+
+  - title: Lab Happy Hour July 2017
+    images:
+      - Galloplabhappyhourflyers.jpg
+      - Funinlab_labhappyhour2.jpg
+      - Funinlab_labhappyhour3.jpg
+      - Funinlab_labhappyhour.JPG
+      - Funinlab_labhappyhour4.JPG
+      - Funinlab_labhappyhour5.JPG
+
+  - title: Gallop lab Retreat May 2017
+    images:
+      - Labretreat_0.jpg
+      - Labretreat_1.jpg
+      - Labretreat_2.jpg
+      - Labretreat_3.jpg
+      - Labretreat_4.jpg
+      - Labretreat_5.jpg
+      - Labretreat_6.jpg
+      - Labretreat_7.jpg
+
+  - title: Science Festival March 2017
+    images:
+      - JennyHanaeScienceFestival.jpg
+
+  - title: Institute Xmas Party December 2015
+    images:
+      - Funinlab_Xmasparty.jpg
+      - Funinlab_Xmasparty2.jpg
+      - Funinlab_Xmasparty3.jpg
+      - Funinlab_Xmasparty4.jpg
+
+  - title: Gallop lab August 2015
+    images:
+      - GroupPhotobyVivek_2.jpg
+
+  - title: Daniel's Farewell Party 2015
+    images:
+      - DanielParty_1.JPG
+      - DanielParty_2.JPG
+      - DanielParty_4.JPG
+      - DanielParty_5.JPG
+      - DanielParty_6.JPG
+      - DanielParty_7.JPG
+
+  - title: Lab Retreat 2015
+    images:
+      - retreat1.jpg
+      - retreat2.jpg
+      - retreat3.jpg
+      - retreat4.jpg
+      - retreat5.jpg
+      - retreat6.jpg
+      - retreat7.jpg
+
+  - title: Gallop lab Spring 2015
+    images:
+      - labpicApr15.jpg
+
+  - title: TIRF / STORM Microscope
+    images:
+      - tirfstorm.jpg
+
+  - title: Confocal / TIRF Microscope
+    images:
+      - confocalTIRFmicroscope.jpg
+
+  - title: Lab dinner 2015
+    images:
+      - 2015XmasLunch-1.jpeg
+      - 2015XmaxLunch-2.JPG
+
+  - title: Around the Lab 2014
+    images:
+      - lab_Astrid_working.jpg
+      - lab_Daniel_fun.jpg
+      - lab_Astrid-2.jpg
+      - lab_Helen_desk.jpg
+      - lab_Daniel-thinking.jpg
+      - lab_Helen_lab.jpg
+      - IrisHanae.JPG
+      - Dan.JPG
+      - IrisHanae2.JPG
+
+  - title: Christmas 2013
+    images:
+      - astrid_xmas.jpg
+      - secret_santa.jpg
+      - xmas_curry.jpg
+
+  - title: BBQ / Jenny's Housewarming Party 2012
+    images:
+      - bbq1.jpeg
+      - bbq2.jpeg
+
+  - title: Lab Renovation 2011
+    images:
+      - renov1.jpeg
+      - renov2.jpeg
+      - renov3.jpg
+      - renov4.jpg
+---
+
+<div class="home">
+  <ul>
+    {% for album in page.albums %}
+    <li><h3>{{ album.title}}:</h3>
+      {% for image in album.images %}
+      <a href="photos/{{ image }}" data-lightbox="{{ image }}"><img src="photos/thumbnails/{{ image }}"/></a>
+      {% endfor %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+<script src="/~galloplab/js/lightbox-plus-jquery.min.js"></script>

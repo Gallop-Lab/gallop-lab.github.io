@@ -1,0 +1,67 @@
+---
+layout: default
+header: |
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
+  <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
+  <style>
+  .carousel div {
+  width: auto;
+  height: 300px;
+  background-color: black;
+  background-size: 100% auto;
+  background-position: 0% 50%;
+  }
+  </style>
+  
+carousel:
+  - image: /~galloplab/images/1_index_gallery/01.png
+  - image: /~galloplab/images/1_index_gallery/02.png
+  - image: /~galloplab/images/1_index_gallery/04.png
+  - image: /~galloplab/images/1_index_gallery/06.png
+  - image: /~galloplab/images/1_index_gallery/08.png
+---
+
+<div class="home">
+
+  <blockquote class="research">Our research spans from biophysical mechanism to molecular behaviour in organisms to discover how proteins and lipids control rearrangements of the actin cytoskeleton.</blockquote>
+
+{% if page.carousel %}
+<div class='carousel'>
+  {% for slides in page.carousel %}
+  <div style="background-image: url({{ slides.image }});"></div>
+  {% endfor %}
+</div>
+<script type="text/javascript">
+    $(document).ready(function(){
+      $('.carousel').slick({
+        slidesToShow: 1,
+	autoplay: true,
+	autoplaySpeed: 5000,
+	fade: true,
+	cssEase: 'linear',
+        dots: true,
+        arrows: false,
+      });
+    });
+</script>
+{% endif %}
+
+<h3 style=>News</h3>
+
+  <ul class="post-list">
+    {% for post in site.posts limit:6 %}
+    <li>
+      <span class="newsmonth">{{ post.date | date: '%B %Y'}}:</span><span class="content">{{ post.content | markdownify }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <div style="float:right;">
+    <a href="https://twitter.com/GallopLab" class="twitter-follow-button" data-show-count="false">
+      Follow @GallopLab
+    </a>
+  </div>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>

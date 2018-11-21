@@ -29,6 +29,14 @@ people:
     about: I enjoy cricket and playing the bassoon & clarinet.
     picture: jonathan-profile.jpg
 
+  - name: Hanae Shimo
+    cv: |
+      **Position**: Funai Overseas Scholarship PhD student (Biochemistry), joined the lab in September 2014.
+      **Previous positions**: M.S. in Systems Biology at Keio University
+    research: Investigating the molecular architecture of filopodia-like structures using super-resoultion microscopy
+    about: I enjoy traveling, photography, and playing guitar.
+    picture: hanae-profile.jpg
+
   - name: Ulrich Dobramysl
     cv: |
       **Position**: Hershel Smith Postdoctoral Fellow, joined the lab in October 2015.     
@@ -76,7 +84,15 @@ alumni_postdocs:
   - name: Claire Mulvey
     comments: |
       now working on a Grand Challenge with Greg Hannon at Cambridge Research Institute.
-    
+  
+  - name: Benjamin Richier
+    comments: |
+      Moved back to family in france where he pursues new career opportunities. Joined the lab as drosophila specialist from the Crick institute. Developed live imaging in fly embryos and worked at elucidating the role of integrins in muscle attachments (JCS, 2018).
+
+  - name: Iris Jarsch
+    comments: |
+      Moved back to Germany to pursue new career opportunities. Worked on FLS tip complex protein composition and developed the FLS Ace image analysis pipeline.
+
 alumni_phds_ras:
   - name: Daniel Saxton
     comments: |

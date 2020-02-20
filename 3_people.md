@@ -29,34 +29,19 @@ people:
     about: I enjoy cricket and playing the bassoon & clarinet.
     picture: jonathan-profile.jpg
 
-  - name: Hanae Shimo
-    cv: |
-      **Position**: Funai Overseas Scholarship PhD student (Biochemistry), joined the lab in September 2014.
-      **Previous positions**: M.S. in Systems Biology at Keio University
-    research: Investigating the molecular architecture of filopodia-like structures using super-resoultion microscopy
-    about: I enjoy traveling, photography, and playing guitar.
-    picture: hanae-profile.jpg
-
   - name: Ulrich Dobramysl
     cv: |
-      **Position**: Hershel Smith Postdoctoral Fellow, joined the lab in October 2015.     
+      **Position**: Hershel Smith Postdoctoral Fellow, joined the lab in October 2015.  
       **Previous positions**: Postdoctoral Researcher at the Mathematical Institute, University of Oxford; PhD in Theoretical Physics at Virginia Tech; Diploma in Engineering Physics at Johannes Kepler University Linz, Austria.
     research: Data-driven modeling of actin dynamics inside filopodia, stochastic modeling of biological processes. [[personal website](http://ulido.github.io)]
     about: I enjoy spending time with my family, tinkering, hiking, skiing and reading a good book.
     picture: uli-profile.jpg
 
-  - name: Bishara Marzook
-    cv: |
-      **Position**: ERC research associate; joined the lab in October 2017.
-      **Previous positions**: PhD student at The University of Sydney, Australia, in Virology and Cell Biology. I worked on generating recombinant fluorescent viruses to study how vaccinia virus interacts with the host cytoskeleton, particularly with cytoplasmic actin isoforms.
-    research: I am interested in all things actin-related, focusing at the moment on filopodia formation. Also keeping on eye on the virus world!
-    about: I love to communicate (by writing, telling jokes, or through radio/social media), bake, and take long walks/hikes to offset said baking.
-    picture: bishara-profile.jpg
-
   - name: Pantelis Savvas Ioannou
     cv: |
-      **Position**: MedImmune PhD Student
-    research:
+      **Position**: MedImmune PhD Student, joined the lab in October 2018  
+      **Previous positions**: BSc in Biological Sciences and MSc in Biomedical Sciences at the University of Cyprus
+    research: Using phage display antibody technology to study filopodia
     about:
     picture: pantelis.jpg
 
@@ -91,7 +76,11 @@ alumni_postdocs:
 
   - name: Iris Jarsch
     comments: |
-      Moved back to Germany to pursue new career opportunities. Worked on FLS tip complex protein composition and developed the FLS Ace image analysis pipeline.
+      Moved back to Germany to pursue new career opportunities. Worked on FLS tip complex protein composition and developed the FLS Ace image analysis pipeline (bioRxiv preprint 2019).
+
+  - name: Bishara Marzook
+    comments: |
+      Now a postdoc in Barry Thompson's Lab at the Crick Institute. Investigated the role of filopodial tip complex proteins during Chlamydia cell invasion.
 
 alumni_phds_ras:
   - name: Daniel Saxton
@@ -102,8 +91,12 @@ alumni_phds_ras:
   - name: Helen Fox
     comments: |
       former PhD student, now a Project Manager at Eurofins.
-      Looked at roles of Toca-1 interactions in actin polymerization (CSH protocols, in press, JBC, 2016)
+      Looked at roles of Toca-1 interactions in actin polymerization (CSH protocols, 2019; JBC, 2016)
 
+  - name: Hanae Shimo
+    comments: |
+      former PhD student, now a PostDoc at the Salk Institute.
+      Studied the nanoscale structure of filopodial tip complexes (bioRxiv preprint 2019).
 
 header: |
   <style>
@@ -151,11 +144,11 @@ header: |
 {{ person.cv }}
 **Research area:** {{ person.research }}
 
-**About me:** {{ person.about }}
 <div style="clear: both;"></div>
 </div>
 {% endfor %}
 
+{% comment %}
 <div class="alumni" markdown="1">
 ## Alumni*
 *All alumni have been listed with prior consent, with the option of withdrawing this information at any point in time. (Please use the email address listed on the Contact page if you would like to be removed)
@@ -169,6 +162,5 @@ header: |
 {% for person in page.alumni_phds_ras %}
 * **{{ person.name }}**{% if person.comments %}: {{ person.comments }} {% endif %}
 {% endfor %}
-
-
 </div>
+{% endcomment %}

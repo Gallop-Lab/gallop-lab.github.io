@@ -1,8 +1,10 @@
 <html>
   <head>
     <meta charset="utf-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Gallop Lab</title>
     <link rel="shortcut icon" href="/~galloplab/images/favicon.ico">
+    <link rel="canonical" href="https://www.gallop.group{{ page.url }}">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <style>
       body {
@@ -45,14 +47,15 @@
       background-image: url(images/bg.jpg);
       background-size: cover;
       background-position: bottom;
-      height: 16em;
+      height: 17.5em;
       padding-top: 0.1em;
       }
       header.site-header div {
       width: 100%;
       }
       header.site-header div div.title {
-      width: 50em;
+	  width: 100vw;
+	  max-width: 50em;
       margin: 0 auto;
       margin-top: 0.5em;
       background-color: white;
@@ -73,7 +76,8 @@
       color: #ffffff;
       }
       header.site-header div.navbar nav {
-      width: 50em;
+	  width: 100vw;
+	  max-width: 50em;
       margin: 0 auto;
       text-align: right;
       background-color: white;
@@ -103,24 +107,28 @@
       width: 100%;
       }
       div.content {
-      width: 50em;
+	  width: 100vw;
+	  max-width: 50em;
       margin: 0 auto;
       margin-bottom: auto;
       }
 
       header.site-header div.logobar {
-      width: 50em;
+	  width: 100vw;
+	  max-width: 50em;
       height: 10em;
       margin: 0 auto;
       vertical-align: middle;
       }
       header.site-header div.logobar img.logo {
-      height: 10em;
+	  max-height: 10em;
+	  height: 25vw;
       float: left;
       }
       header.site-header div.logobar img.gurdon {
       margin-top: 2em;
-      height: 6em;
+      max-height: 6em;
+      height: 18vw;
       float: right;
       }
 

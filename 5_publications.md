@@ -7,7 +7,8 @@ header: |
   </style>
 ---
 
-* Integrin signaling downregulates filopodia in muscle-tendon attachment. Richier B, Inoue Y, Dobramysl U, Friedlander J, Brown NH, Gallop JL. doi: 10.1101/270546. [[Preprint](https://www.biorxiv.org/content/early/2018/02/23/270546)] 
+* Constrained actin dynamics emerges from variable compositions of actin regulatory protein complexes. Dobramysl U, Jarsch IK, Shimo H, Inoue Y, Richier B, Gadsby JR, Mason J, Walrant A, Butler R, Hannezo E, Simons BD, Gallop JL. [[bioRxiv](https://doi.org/10.1101/525725)]
+* Integrin signaling downregulates filopodia in muscle-tendon attachment. Richier B, Inoue Y, Dobramysl U, Friedlander J, Brown NH, Gallop JL. J Cell Sci 2018; 131:jcs217133. [[full text](http://jcs.biologists.org/content/131/16/jcs217133)] [[bioRxiv](https://www.biorxiv.org/content/early/2018/02/23/270546)] 
 * Control of actin polymerization via the coincidence of phosphoinositides and high membrane curvature. Daste F, Walrant A, Holst MR, Gadsby JR, Mason J, Lee JE, Brook D, Mettlen M, Larsson E, Lee SF, Lundmark R, Gallop JL. J Cell Biol. 2017. doi: 10.1083/jcb.201704061. [[full text](http://jcb.rupress.org/content/early/2017/09/18/jcb.201704061)] 
 * Filopodyan: An open-source pipeline for the analysis of filopodia. Urbančič V, Butler R, Richier B, Peter M., Mason J, Livesey FJ, Holt CE, and Gallop JL. J Cell Biol. 2017; 216:3405–3422. [[full text](http://jcb.rupress.org/content/216/10/3405)] [[GitHub](https://github.com/gurdon-institute/Filopodyan)]
 * Membrane curvature in cell biology: An integration of molecular mechanisms. Jarsch IK, Daste F, and Gallop JL. J Cell Biol. 2016; 216 (4): 375-387. [[full text](http://jcb.rupress.org/content/214/4/375.full)]

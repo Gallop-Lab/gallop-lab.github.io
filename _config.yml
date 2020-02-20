@@ -1,8 +1,8 @@
 # Site settings
 title: Gallop Lab
 description: 
-baseurl: "/~galloplab/" # the subpath of your site, e.g. /blog/
-url: "http://www2.gurdon.cam.ac.uk/" # the base hostname & protocol for your site
+baseurl: "/gallop-lab.github.io/" # the subpath of your site, e.g. /blog/
+url: "https://gallob.group/" # the base hostname & protocol for your site
 twitter_username: galloplab
 
 # Build settings

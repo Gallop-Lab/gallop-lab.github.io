@@ -11,11 +11,11 @@ If you are interested in joining us please send your CV and a covering email des
 Funding
 -------
 
-We are currently funded by the Wellcome Trust.
+Since 2011, Jenny's work has been funded by the Wellcome Trust.
 
 ![Wellcome Logo](images/wellcome.jpg){:style="height: 100px;"}
 
-We have previously received funding from the European Research Council and Issac Newton Trust.
+We have also previously been supported by a European Research Council Starting Grant and Equipment and Bridging grants from the Issac Newton Trust.
 
 ![ERC Logo](images/erc.jpg){:style="height: 100px;"}
 

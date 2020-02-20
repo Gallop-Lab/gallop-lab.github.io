@@ -17,11 +17,11 @@ header: |
   </style>
   
 carousel:
-  - image: /~galloplab/images/2_research_gallery/05.png
-  - image: /~galloplab/images/2_research_gallery/10.png
-  - image: /~galloplab/images/2_research_gallery/07.png
-  - image: /~galloplab/images/2_research_gallery/09.png
-  - image: /~galloplab/images/2_research_gallery/03.png
+  - image: /images/2_research_gallery/05.png
+  - image: /images/2_research_gallery/10.png
+  - image: /images/2_research_gallery/07.png
+  - image: /images/2_research_gallery/09.png
+  - image: /images/2_research_gallery/03.png
 ---
 
 {% if page.carousel %}

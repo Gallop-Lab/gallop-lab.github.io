@@ -33,7 +33,7 @@ people:
     cv: |
       **Position**: Hershel Smith Postdoctoral Fellow, joined the lab in October 2015.  
       **Previous positions**: Postdoctoral Researcher at the Mathematical Institute, University of Oxford; PhD in Theoretical Physics at Virginia Tech; Diploma in Engineering Physics at Johannes Kepler University Linz, Austria.
-    research: Data-driven modeling of actin dynamics inside filopodia, stochastic modeling of biological processes. [[personal website](http://ulido.github.io)]
+    research: Data-driven modeling of actin dynamics inside filopodia, stochastic modeling of biological processes. [[personal website](http://ulido.github.io)]?
     about: I enjoy spending time with my family, tinkering, hiking, skiing and reading a good book.
     picture: uli-profile.jpg
 

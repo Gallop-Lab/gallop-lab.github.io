@@ -173,7 +173,7 @@
       </div>
       <div class="titlebar">
 	<div class="title">
-	  <h1><a class="site-title" href="/~galloplab/">{{ site.title }}</a></h1>
+	  <h1><a class="site-title" href="/">{{ site.title }}</a></h1>
 	</div>
       </div>
       <div class="navbar">
@@ -181,7 +181,7 @@
 	  <ul>
             {% for page in site.pages %}
             {% if page.title %}
-            <li><a class="page-link" href="/~galloplab/{{ page.url }}">{{ page.title }}</a></li>
+            <li><a class="page-link" href="/{{ page.url }}">{{ page.title }}</a></li>
             {% endif %}
             {% endfor %}
 	  </ul>

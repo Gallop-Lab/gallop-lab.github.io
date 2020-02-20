@@ -19,4 +19,4 @@ We have previously received funding from the European Research Council and Issac
 
 ![ERC Logo](images/erc.jpg){:style="height: 100px;"}
 
-![INT Logo](images/int.jpg){:style="height: 100px;"}
+![INT Logo](images/INTwordapple.png){:style="height: 100px;"}

@@ -10,7 +10,6 @@ people:
       **2001 - 2006**: PhD and short postdoc in Harvey McMahon's lab, MRC Laboratory of Molecular Biology, Cambridge, UK  
       **1997 - 2001**: Masters degree in Biochemistry, University of Oxford, UK  
     research: actin polymerisation, membranes, filopodia formation, cell shape, cell movement, signaling to actin, the membrane-cytosol interface
-    about:  I enjoy looking after my children, Pilates and organising old photographs.
     picture: jenny2014.jpg
 
   - name: Julia Mason
@@ -18,7 +17,6 @@ people:
       **Position**: Lab Manager since the lab started in 2011  
       **Previous positions**: I have worked at the Gurdon Institute for many years supporting the research of a number of labs.  
     research: Molecular Biology, Cell culture and Xenopus in vivo studies
-    about: I enjoy spending time with my family and my dog.
     picture: julia_profile.jpg
 
   - name: Jonathan Gadsby
@@ -26,15 +24,13 @@ people:
       **Position**: ERC Research Associate, joined the lab in January 2015.    
       **Previous positions**: B.Sc. in Molecular Biology & Biochemistry at Durham University; M.Res. at Newcastle University; PhD and short postdoc in the lab of Mette Mogensen at UEA, Norwich, studying microtubule +TIPs in epithelial differentiation and cancer. 
     research: Examining how actin polymerisation is responsive to phosphoinositides and membrane curvature. 
-    about: I enjoy cricket and playing the bassoon & clarinet.
     picture: jonathan-profile.jpg
 
   - name: Ulrich Dobramysl
     cv: |
       **Position**: Hershel Smith Postdoctoral Fellow, joined the lab in October 2015.  
       **Previous positions**: Postdoctoral Researcher at the Mathematical Institute, University of Oxford; PhD in Theoretical Physics at Virginia Tech; Diploma in Engineering Physics at Johannes Kepler University Linz, Austria.
-    research: Data-driven modeling of actin dynamics inside filopodia, stochastic modeling of biological processes. [[personal website](http://ulido.github.io)]?
-    about: I enjoy spending time with my family, tinkering, hiking, skiing and reading a good book.
+    research: Data-driven modeling of actin dynamics inside filopodia, stochastic modeling of biological processes. [[personal website](http://ulido.github.io)]
     picture: uli-profile.jpg
 
   - name: Pantelis Savvas Ioannou
@@ -42,7 +38,6 @@ people:
       **Position**: MedImmune PhD Student, joined the lab in October 2018  
       **Previous positions**: BSc in Biological Sciences and MSc in Biomedical Sciences at the University of Cyprus
     research: Using phage display antibody technology to study filopodia
-    about:
     picture: pantelis.jpg
 
 alumni_postdocs:

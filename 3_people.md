@@ -28,7 +28,7 @@ people:
 
   - name: Ulrich Dobramysl
     cv: |
-      **Position**: Hershel Smith Postdoctoral Fellow, joined the lab in October 2015.  
+      **Position**: Herchel Smith Postdoctoral Fellow, joined the lab in October 2015.  
       **Previous positions**: Postdoctoral Researcher at the Mathematical Institute, University of Oxford; PhD in Theoretical Physics at Virginia Tech; Diploma in Engineering Physics at Johannes Kepler University Linz, Austria.
     research: Data-driven modeling of actin dynamics inside filopodia, stochastic modeling of biological processes. [[personal website](http://ulido.github.io)]
     picture: uli-profile.jpg

@@ -24,7 +24,7 @@ people:
       **Position**: ERC Research Associate, joined the lab in January 2015.    
       **Previous positions**: B.Sc. in Molecular Biology & Biochemistry at Durham University; M.Res. at Newcastle University; PhD and short postdoc in the lab of Mette Mogensen at UEA, Norwich, studying microtubule +TIPs in epithelial differentiation and cancer. 
     research: Examining how actin polymerisation is responsive to phosphoinositides and membrane curvature. 
-    picture: jonathan-profile2.jpg
+    picture: Jonathan-profile2.jpg
 
   - name: Pantelis Savvas Ioannou
     cv: |

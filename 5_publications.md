@@ -7,7 +7,7 @@ header: |
   </style>
 ---
 * Filopodia and their links with membrane traffic and cell adhesion. Gallop JL. Semin Cell Dev Biol. 2019 Dec 13. pii: S1084-9521(18)30333-1. [[pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31843255)]
-* A direct role for SNX9 in the biogenesis of filopodia.  Jarsch IK, Gadsby JR, A Nuccitelli, J Mason, H Shimo, L Pilloux, B Marzook, CM Mulvey, U Dobramysl, KS Lilley, RD Hayward, TJ Vaughan, CL Dobson, JL Gallop. [[bioRxiv](https://doi.org/10.1101/710285)]
+* A direct role for SNX9 in the biogenesis of filopodia.  Jarsch IK, Gadsby JR, A Nuccitelli, J Mason, H Shimo, L Pilloux, B Marzook, CM Mulvey, U Dobramysl, KS Lilley, RD Hayward, TJ Vaughan, CL Dobson, JL Gallop. [[full text](https://doi.org/10.1083/jcb.201909178)] [[bioRxiv](https://doi.org/10.1101/710285)]
 * Constrained actin dynamics emerges from variable compositions of actin regulatory protein complexes. Dobramysl U, Jarsch IK, Shimo H, Inoue Y, Richier B, Gadsby JR, Mason J, Walrant A, Butler R, Hannezo E, Simons BD, Gallop JL. [[bioRxiv](https://doi.org/10.1101/525725)]
 * Integrin signaling downregulates filopodia in muscle-tendon attachment. Richier B*, Inoue Y*, Dobramysl U, Friedlander J, Brown NH, Gallop JL. J Cell Sci 2018; 131:jcs217133. [[full text](http://jcs.biologists.org/content/131/16/jcs217133)] [[bioRxiv](https://www.biorxiv.org/content/early/2018/02/23/270546)] 
 * Control of actin polymerization via the coincidence of phosphoinositides and high membrane curvature. Daste F, Walrant A, Holst MR, Gadsby JR, Mason J, Lee JE, Brook D, Mettlen M, Larsson E, Lee SF, Lundmark R, Gallop JL. J Cell Biol. 2017. doi: 10.1083/jcb.201704061. [[full text](http://jcb.rupress.org/content/early/2017/09/18/jcb.201704061)] 

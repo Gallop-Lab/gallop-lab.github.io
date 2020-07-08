@@ -26,13 +26,6 @@ people:
     research: Examining how actin polymerisation is responsive to phosphoinositides and membrane curvature. 
     picture: jonathan-profile.jpg
 
-  - name: Ulrich Dobramysl
-    cv: |
-      **Position**: Herchel Smith Postdoctoral Fellow, joined the lab in October 2015.  
-      **Previous positions**: Postdoctoral Researcher at the Mathematical Institute, University of Oxford; PhD in Theoretical Physics at Virginia Tech; Diploma in Engineering Physics at Johannes Kepler University Linz, Austria.
-    research: Data-driven modeling of actin dynamics inside filopodia, stochastic modeling of biological processes. [[personal website](http://ulido.github.io)]
-    picture: uli-profile.jpg
-
   - name: Pantelis Savvas Ioannou
     cv: |
       **Position**: MedImmune PhD Student, joined the lab in October 2018  
@@ -76,6 +69,13 @@ alumni_postdocs:
   - name: Bishara Marzook
     comments: |
       Now a postdoc in Barry Thompson's Lab at the Crick Institute. Investigated the role of filopodial tip complex proteins during Chlamydia cell invasion.
+            
+  - name: Ulrich Dobramysl
+    cv: |
+      **Position**: Herchel Smith Postdoctoral Fellow, joined the lab in October 2015.  
+      **Previous positions**: Postdoctoral Researcher at the Mathematical Institute, University of Oxford; PhD in Theoretical Physics at Virginia Tech; Diploma in Engineering Physics at Johannes Kepler University Linz, Austria.
+    research: Data-driven modeling of actin dynamics inside filopodia, stochastic modeling of biological processes. [[personal website](http://ulido.github.io)]
+    picture: uli-profile.jpg
 
 alumni_phds_ras:
   - name: Daniel Saxton

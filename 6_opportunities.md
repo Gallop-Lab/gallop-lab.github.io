@@ -3,9 +3,11 @@ layout: page
 title:  "Opportunities"
 ---
 
-Students can be funded to join the lab via studentships from a variety of sources. We occasionally have positions available for postdocs and we welcome applicants for external postdoctoral fellowships. 
+A postdoc position is available! [See advert](http://www.jobs.cam.ac.uk/job/26452/)
 
-If you are interested in joining us please send your CV and a covering email describing your interests and motivations to [Jenny](mailto:jlg38@cam.ac.uk).
+We are looking for a neuronal cell biologist or microscopy expert to unravel what is happening at the membrane during the initial protrusion and elongation stages when filopodia form. The project uses quantitative and super-resolution microscopy and there are opportunities for various types of neuronal cultures. The lab has trained 9 postdocs so far. One has an independent academic position and another is currently applying for independent positions. Two have moved into industry, one has taken a career break, another moved into government/policy and four have moved to further research associate positions. Everyone has published their work from the lab.
+
+Students can be funded to join the lab via studentships from external funders. If you are interested in joining us please send your CV and a covering email describing your interests and motivations to [Jenny](mailto:jlg38@cam.ac.uk).
 
 
 Funding

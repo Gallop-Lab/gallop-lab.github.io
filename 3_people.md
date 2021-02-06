@@ -9,29 +9,44 @@ people:
       **2006 - 2011**: Postdoc and EMBO fellow in laboratory of Marc Kirschner, Harvard Medical School, Boston, USA  
       **2001 - 2006**: PhD and short postdoc in Harvey McMahon's lab, MRC Laboratory of Molecular Biology, Cambridge, UK  
       **1997 - 2001**: Masters degree in Biochemistry, University of Oxford, UK  
-    research: actin polymerisation, membranes, filopodia formation, cell shape, cell movement, signaling to actin, the membrane-cytosol interface
+    research: actin polymerisation, membranes, filopodia formation, cell shape, cell movement, signalling to actin, the membrane-cytosol interface
     picture: jenny2014.jpg
 
   - name: Julia Mason
     cv: |
       **Position**: Lab Manager since the lab started in 2011  
-      **Previous positions**: I have worked at the Gurdon Institute for many years supporting the research of a number of labs.  
-    research: Molecular Biology, Cell culture and Xenopus in vivo studies
+      **Previous positions**: At the Gurdon Institute for many years supporting the research of a number of labs  
+    research: Molecular biology, cell culture and Xenopus in vivo studies
     picture: julia_profile.jpg
 
   - name: Jonathan Gadsby
     cv: |
-      **Position**: ERC Research Associate, joined the lab in January 2015.    
-      **Previous positions**: B.Sc. in Molecular Biology & Biochemistry at Durham University; M.Res. at Newcastle University; PhD and short postdoc in the lab of Mette Mogensen at UEA, Norwich, studying microtubule +TIPs in epithelial differentiation and cancer. 
+      **Position**: Wellcome Trust Research associate, joined the lab in January 2015.    
+      **Previous positions**: BSc Molecular Biology & Biochemistry, Durham University; MRes Newcastle University; PhD and short postdoc in Mette Mogensen's lab at UEA, Norwich, studying microtubule +TIPs in epithelial differentiation and cancer 
     research: Examining how actin polymerisation is responsive to phosphoinositides and membrane curvature. 
     picture: Jonathan-profile2.jpg
+    
+      - name: Thomas Blake
+    cv: |
+      **Position**: Wellcome Trust Research associate, joined the lab in January 2021
+      **Previous positions**: BA Natural Sciences and MSci Biochemistry, University of Cambridge; MRes, PhD Imperial College, London, and short postdoc in Jake Baum's lab studying myosin motors in malaria parasites
+    research: Superresolution and rapid timelapse microscopy in studying filopodial initation and extension
+    picture: 
 
   - name: Pantelis Savvas Ioannou
     cv: |
-      **Position**: MedImmune PhD Student, joined the lab in October 2018  
+      **Position**: MedImmune PhD student, joined the lab in October 2018  
       **Previous positions**: BSc in Biological Sciences and MSc in Biomedical Sciences at the University of Cyprus
-    research: Using phage display antibody technology to study filopodia
+    research: Using phage display antibody technology to find new filopodial proteins
     picture: pantelis.jpg
+    
+    
+  - name: Pankti Vaishnav
+    cv: |
+      **Position**: Wellcome Trust Research assistant, joined the lab in July 2020
+      **Previous positions**: BSc in Biochemistry, University of Birmingham and MRes in Molecular and Cellular Biosciences, Imperial College, London
+    research: Molecular mechanisms of SNX-mediated actin polymerisation
+    picture: 
 
 alumni_postdocs:
   - name: Astrid Walrant

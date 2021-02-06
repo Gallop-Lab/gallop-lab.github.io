@@ -45,10 +45,10 @@ carousel:
 </script>
 {% endif %}
 
-We are interested in how actin assembles during endocytosis and filopodia formation. There are many proteins involved in both these processes. Our current key questions ask:
+We are interested in how filopodia form and in understanding how to intervene in actin assembly therapeutically. Our current questions include:
 
-* How does the membrane bend to make a vesicle or filopodium and how is this curvature change communicated to the actin assembly?
-* How do phosphoinositide lipids selectively recruit and activate the proteins involved in actin regulation?
-* How do cells orchestrate this cell biology to do interesting things like migrating, and forming adhesions and synapses in the right places?
+* What happens when filopodia inititate and extend?
+* What determines the length and lifetime of filopodia, and related in vitro filopodia-like structures?
+* How do cells orchestrate filopodia during axon guidance, synaptogenesis and cancer metastasis?
 
-To answer these questions we reconstitute the membrane-cytosol interface in vitro using artificial lipid membranes and frog egg extracts as cytosol and take away and add in components to figure out how the biochemistry works. We try to find the essential crux of the answer and then take this into cells - neurons, Drosophila embryos or cell culture depending on what we want to know. We use quantitative imaging in all our work. We believe in collaborating with each other, as well as working on our own individual projects, to achieve common goals.
+To answer these questions we are using a combination of biochemistry and quantitative imaging in a variety of cells. We enjoy a diverse range of external collaborations as well as collaborating with each other within the lab and pursuing our own individual projects. We aim to be highly innovative in our approaches, use cutting-edge technologies and support everyone's ambitions.

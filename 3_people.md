@@ -28,7 +28,7 @@ people:
     
   - name: Thomas Blake
     cv: |
-      **Position**: Wellcome Trust Research Associate, joined the lab in January 2021
+      **Position**: Wellcome Trust Research Associate, joined the lab in January 2021 
       **Previous positions**: BA Natural Sciences and MSci Biochemistry, University of Cambridge; MRes and PhD Imperial College, London, and short postdoc in Jake Baum's lab studying myosin motors in malaria parasites
     research: Superresolution and rapid timelapse microscopy in studying filopodial initation and extension
     picture: 
@@ -43,7 +43,7 @@ people:
     
   - name: Pankti Vaishnav
     cv: |
-      **Position**: Wellcome Trust Research Assistant, joined the lab in July 2020
+      **Position**: Wellcome Trust Research Assistant, joined the lab in July 2020 
       **Previous positions**: BSc in Biochemistry, University of Birmingham and MRes in Molecular and Cellular Biosciences, Imperial College, London
     research: Molecular mechanisms of SNX9-mediated actin polymerisation
     picture: 

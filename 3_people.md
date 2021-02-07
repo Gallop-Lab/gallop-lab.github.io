@@ -7,7 +7,7 @@ people:
     cv: |
       **2020 - present**: Faculty member, Department of Biochemistry  
       **2011 - present**: Group Leader, Gurdon Institute  
-      **2011 - 2020**: Affiliated member, Department of Biochemistry 
+      **2011 - 2020**: Affiliated member, Department of Biochemistry  
       **2006 - 2011**: Postdoc and EMBO fellow in laboratory of Marc Kirschner, Harvard Medical School, Boston, USA  
       **2001 - 2006**: PhD and short postdoc in Harvey McMahon's lab, MRC Laboratory of Molecular Biology, Cambridge, UK  
       **1997 - 2001**: Masters degree in Biochemistry, Trinity College, University of Oxford, UK  
@@ -30,7 +30,7 @@ people:
     
   - name: Thomas Blake
     cv: |
-      **Position**: Wellcome Trust Research Associate, joined the lab in January 2021 
+      **Position**: Wellcome Trust Research Associate, joined the lab in January 2021  
       **Previous positions**: BA Natural Sciences and MSci Biochemistry, University of Cambridge; MRes and PhD Imperial College, London, and short postdoc in Jake Baum's lab studying myosin motors in malaria parasites
     research: Superresolution and rapid timelapse microscopy in studying filopodial initiation and extension
     picture: 

@@ -47,8 +47,8 @@ carousel:
 
 We are interested in how filopodia form and in understanding how to intervene in actin assembly therapeutically. Our current questions include:
 
-* What happens when filopodia inititate and extend?
+* What happens when filopodia initiate and extend?
 * What determines the length and lifetime of filopodia, and related in vitro filopodia-like structures?
 * How do cells orchestrate filopodia during axon guidance, synaptogenesis and cancer metastasis?
 
-To answer these questions we are using a combination of biochemistry and quantitative imaging in a variety of cells. We enjoy a diverse range of external collaborations as well as collaborating with each other within the lab and pursuing our own individual projects. We aim to be highly innovative in our approaches, use cutting-edge technologies and support everyone's ambitions.
+To answer these questions we are using a combination of biochemistry and quantitative imaging in a variety of cells. We enjoy a diverse range of external collaborations as well as collaborating with each other within the lab, and pursuing our own individual projects. We aim to be highly innovative in our approaches, use cutting-edge technologies and support everyone's ambitions.

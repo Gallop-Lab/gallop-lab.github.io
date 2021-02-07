@@ -21,21 +21,21 @@ people:
 
   - name: Jonathan Gadsby
     cv: |
-      **Position**: Wellcome Trust Research associate, joined the lab in January 2015.    
+      **Position**: Wellcome Trust Research Associate, joined the lab in January 2015.    
       **Previous positions**: BSc Molecular Biology & Biochemistry, Durham University; MRes Newcastle University; PhD and short postdoc in Mette Mogensen's lab at UEA, Norwich, studying microtubule +TIPs in epithelial differentiation and cancer 
     research: Examining how actin polymerisation is responsive to phosphoinositides and membrane curvature. 
     picture: Jonathan-profile2.jpg
     
   - name: Thomas Blake
     cv: |
-      **Position**: Wellcome Trust Research associate, joined the lab in January 2021
-      **Previous positions**: BA Natural Sciences and MSci Biochemistry, University of Cambridge; MRes, PhD Imperial College, London, and short postdoc in Jake Baum's lab studying myosin motors in malaria parasites
+      **Position**: Wellcome Trust Research Associate, joined the lab in January 2021
+      **Previous positions**: BA Natural Sciences and MSci Biochemistry, University of Cambridge; MRes and PhD Imperial College, London, and short postdoc in Jake Baum's lab studying myosin motors in malaria parasites
     research: Superresolution and rapid timelapse microscopy in studying filopodial initation and extension
     picture: 
 
   - name: Pantelis Savvas Ioannou
     cv: |
-      **Position**: MedImmune PhD student, joined the lab in October 2018  
+      **Position**: MedImmune PhD Student, joined the lab in October 2018  
       **Previous positions**: BSc in Biological Sciences and MSc in Biomedical Sciences at the University of Cyprus
     research: Using phage display antibody technology to find new filopodial proteins
     picture: pantelis.jpg
@@ -43,9 +43,9 @@ people:
     
   - name: Pankti Vaishnav
     cv: |
-      **Position**: Wellcome Trust Research assistant, joined the lab in July 2020
+      **Position**: Wellcome Trust Research Assistant, joined the lab in July 2020
       **Previous positions**: BSc in Biochemistry, University of Birmingham and MRes in Molecular and Cellular Biosciences, Imperial College, London
-    research: Molecular mechanisms of SNX-mediated actin polymerisation
+    research: Molecular mechanisms of SNX9-mediated actin polymerisation
     picture: 
 
 alumni_postdocs:

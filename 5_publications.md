@@ -7,21 +7,33 @@ header: |
   </style>
 ---
 
+* Stochastic combinations of actin regulatory proteins are sufficient to drive filopodia formation. Dobramysl U, Jarsch IK, Shimo H, Inoue I, Richier B, Gadsby JR, Mason J, Szalapak A, Ioannou P, Correia Pereira G, Walrant A, Butler R, Hannezo E, Simons BD, Gallop JL. 2021 Accepted J Cell Biol. Previous version: [[bioRxiv](https://doi.org/10.1101/525725)]
+
 * The phosphoinositide 3-kinase inhibitor alpelisib restores actin organization and improves proximal tubule dysfunction in vitro and in a mouse model of Lowe syndrome and Dent disease.  Berquez M, Gadsby JR, Festa BP, Butler R, Jackson SP, Verno V, Luciani A, Devuyst O, Gallop JL. Kidney Int https://doi.org/10.1016/j.kint.2020.05.040 [[full text](https://www.kidney-international.org/article/S0085-2538(20)30687-6/fulltext)]
+
 * A direct role for SNX9 in the biogenesis of filopodia.  Jarsch IK, Gadsby JR, Nuccitelli A, Mason J, Shimo H, Pilloux L, Marzook B, Mulvey CM, Dobramysl U, Lilley KS, Hayward RD, Vaughan TJ, Dobson CL, Gallop JL. J Cell Biol (2020) 219 (4): e201909178. [[full text](https://doi.org/10.1083/jcb.201909178)] [[bioRxiv](https://doi.org/10.1101/710285)]
+
 * Filopodia and their links with membrane traffic and cell adhesion. Gallop JL. Semin Cell Dev Biol. 2019 Dec 13. pii: S1084-9521(18)30333-1. [[pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31843255)]
-* Constrained actin dynamics emerges from variable compositions of actin regulatory protein complexes. Dobramysl U, Jarsch IK, Shimo H, Inoue I, Richier B, Gadsby JR, Mason J, Walrant A, Butler R, Hannezo E, Simons BD, Gallop JL. [[bioRxiv](https://doi.org/10.1101/525725)]
+
+* Filopodia-Like Structure Formation from Xenopus Egg Extracts. Fox HM and Gallop JL. Cold Spring Harb Protoc. 2019 Feb 1;2019(2) doi: 10.1101/pdb.prot100545 [[full text](http://cshprotocols.cshlp.org/content/2019/2/pdb.prot100545)] 
+
 * Integrin signaling downregulates filopodia in muscle-tendon attachment. Richier B, Inoue Y, Dobramysl U, Friedlander J, Brown NH, Gallop JL. J Cell Sci 2018; 131:jcs217133. [[full text](http://jcs.biologists.org/content/131/16/jcs217133)] [[bioRxiv](https://www.biorxiv.org/content/early/2018/02/23/270546)] 
+
 * Control of actin polymerization via the coincidence of phosphoinositides and high membrane curvature. Daste F, Walrant A, Holst MR, Gadsby JR, Mason J, Lee JE, Brook D, Mettlen M, Larsson E, Lee SF, Lundmark R, Gallop JL. J Cell Biol. 2017. doi: 10.1083/jcb.201704061. [[full text](http://jcb.rupress.org/content/early/2017/09/18/jcb.201704061)] 
+
 * Filopodyan: An open-source pipeline for the analysis of filopodia. Urbančič V, Butler R, Richier B, Peter M., Mason J, Livesey FJ, Holt CE, and Gallop JL. J Cell Biol. 2017; 216:3405–3422. [[full text](http://jcb.rupress.org/content/216/10/3405)] [[GitHub](https://github.com/gurdon-institute/Filopodyan)]
+
 * Membrane curvature in cell biology: An integration of molecular mechanisms. Jarsch IK, Daste F, and Gallop JL. J Cell Biol. 2016; 216 (4): 375-387. [[full text](http://jcb.rupress.org/content/214/4/375.full)]
+
 * Investigation of the Interaction between Cdc42 and Its Effector TOCA1: HANDOVER OF Cdc42 TO THE ACTIN REGULATOR N-WASP IS FACILITATED BY DIFFERENTIAL BINDING AFFINITIES. Watson JR, Fox HM, Nietlispach D, Gallop JL, Owen D, Mott HR J Biol Chem. 2016; 291(26):13875-90. [[pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27129201)]
-* Triggering actin polymerization in Xenopus egg extracts from phosphoinositide-containing lipid bilayers.	Walrant A, Saxton DS, Correia Pereira G, Gallop JL Methods in Cell Biology. 2015; 128:125-47. [[pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25997346)]
-* Phosphoinositides and membrane curvature switch the mode of actin polymerization via selective recruitment of toca-1 and Snx9. Gallop JL, Walrant A, Cantley LC, Kirschner MW Proc Natl Acad Sci U S A. 2013 Apr 30;110(18):7193-8. [[pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23589871)]
-* Amputation-induced reactive oxygen species are required for successful Xenopus tadpole tail regeneration.
-Love NR, Chen Y, Ishibashi S, Kritsiligkou P, Lea R, Koh Y, Gallop JL, Dorey K, Amaya E. Nat Cell Biol. 2012 Dec 23;15(2):222-8. [[pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23314862)]
-* Self-assembly of filopodia-like structures on supported lipid bilayers.
-Lee K, Gallop JL, Rambani K, Kirschner MW. Science. 2010 Sep 10;329(5997):1341-5. [[pubmed](http://www.ncbi.nlm.nih.gov/pubmed/20829485)]
+
+* Triggering actin polymerization in Xenopus egg extracts from phosphoinositide-containing lipid bilayers.	Walrant A, Saxton DS, Correia Pereira G, Gallop JL. Methods in Cell Biology. 2015; 128:125-47. [[pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25997346)]
+
+* Phosphoinositides and membrane curvature switch the mode of actin polymerization via selective recruitment of toca-1 and Snx9. Gallop JL, Walrant A, Cantley LC, Kirschner MW. Proc Natl Acad Sci U S A. 2013 Apr 30;110(18):7193-8. [[pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23589871)]
+
+* Amputation-induced reactive oxygen species are required for successful Xenopus tadpole tail regeneration. Love NR, Chen Y, Ishibashi S, Kritsiligkou P, Lea R, Koh Y, Gallop JL, Dorey K, Amaya E. Nat Cell Biol. 2012 Dec 23;15(2):222-8. [[pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23314862)]
+
+* Self-assembly of filopodia-like structures on supported lipid bilayers. Lee K, Gallop JL, Rambani K, Kirschner MW. Science. 2010 Sep 10;329(5997):1341-5. [[pubmed](http://www.ncbi.nlm.nih.gov/pubmed/20829485)]
 
 From Jenny's previous work on membrane curvature
 ------------------------------------------------

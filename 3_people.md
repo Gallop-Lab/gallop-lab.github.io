@@ -48,7 +48,7 @@ people:
       **Position**: Wellcome Trust Research Assistant, joined the lab in July 2020  
       **Previous positions**: BSc in Biochemistry, University of Birmingham and MRes in Molecular and Cellular Biosciences, Imperial College, London
     research: Molecular mechanisms of SNX9-mediated actin polymerisation
-    picture: 
+    picture: Pankti.JPG
 
 alumni_postdocs:
   - name: Astrid Walrant

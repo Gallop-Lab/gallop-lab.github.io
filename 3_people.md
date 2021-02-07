@@ -26,7 +26,7 @@ people:
     research: Examining how actin polymerisation is responsive to phosphoinositides and membrane curvature. 
     picture: Jonathan-profile2.jpg
     
-      - name: Thomas Blake
+  - name: Thomas Blake
     cv: |
       **Position**: Wellcome Trust Research associate, joined the lab in January 2021
       **Previous positions**: BA Natural Sciences and MSci Biochemistry, University of Cambridge; MRes, PhD Imperial College, London, and short postdoc in Jake Baum's lab studying myosin motors in malaria parasites

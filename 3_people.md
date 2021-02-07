@@ -32,7 +32,7 @@ people:
     cv: |
       **Position**: Wellcome Trust Research Associate, joined the lab in January 2021 
       **Previous positions**: BA Natural Sciences and MSci Biochemistry, University of Cambridge; MRes and PhD Imperial College, London, and short postdoc in Jake Baum's lab studying myosin motors in malaria parasites
-    research: Superresolution and rapid timelapse microscopy in studying filopodial initation and extension
+    research: Superresolution and rapid timelapse microscopy in studying filopodial initiation and extension
     picture: 
 
   - name: Pantelis Savvas Ioannou

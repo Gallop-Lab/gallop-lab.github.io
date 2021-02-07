@@ -5,10 +5,12 @@ people:
 
   - name: Jenny Gallop
     cv: |
-      **2011 - now**: Group Leader, Gurdon Institute  
+      **2020 - present**: Faculty member, Department of Biochemistry
+      **2011 - present**: Group Leader, Gurdon Institute  
+      **2011 - 2020**: Affiliated member, Department of Biochemistry
       **2006 - 2011**: Postdoc and EMBO fellow in laboratory of Marc Kirschner, Harvard Medical School, Boston, USA  
       **2001 - 2006**: PhD and short postdoc in Harvey McMahon's lab, MRC Laboratory of Molecular Biology, Cambridge, UK  
-      **1997 - 2001**: Masters degree in Biochemistry, University of Oxford, UK  
+      **1997 - 2001**: Masters degree in Biochemistry, Trinity College, University of Oxford, UK  
     research: actin polymerisation, membranes, filopodia formation, cell shape, cell movement, signalling to actin, the membrane-cytosol interface
     picture: jenny2014.jpg
 

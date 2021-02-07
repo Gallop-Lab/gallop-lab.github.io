@@ -5,7 +5,7 @@ people:
 
   - name: Jenny Gallop
     cv: |
-      **2020 - present**: Faculty member, Department of Biochemistry 
+      **2020 - present**: Faculty member, Department of Biochemistry  
       **2011 - present**: Group Leader, Gurdon Institute  
       **2011 - 2020**: Affiliated member, Department of Biochemistry 
       **2006 - 2011**: Postdoc and EMBO fellow in laboratory of Marc Kirschner, Harvard Medical School, Boston, USA  
@@ -45,7 +45,7 @@ people:
     
   - name: Pankti Vaishnav
     cv: |
-      **Position**: Wellcome Trust Research Assistant, joined the lab in July 2020 
+      **Position**: Wellcome Trust Research Assistant, joined the lab in July 2020  
       **Previous positions**: BSc in Biochemistry, University of Birmingham and MRes in Molecular and Cellular Biosciences, Imperial College, London
     research: Molecular mechanisms of SNX9-mediated actin polymerisation
     picture: 

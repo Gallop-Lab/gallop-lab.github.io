@@ -50,11 +50,11 @@ people:
     research: Molecular mechanisms of SNX9-mediated actin polymerisation
     picture: Pankti-tn2.jpg
     
-      - name: Aminah Duha Thomas
+  - name: Aminah Duha Thomas
     cv: |
       **Position**: MPhil student, joined the lab in October 2021  
       **Previous positions**: BSc in Neuroscience, Kings College London
-    picture: 
+    picture:
     
 alumni_postdocs:
   - name: Astrid Walrant

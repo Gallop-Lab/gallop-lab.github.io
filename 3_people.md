@@ -37,7 +37,7 @@ people:
 
   - name: Pantelis Savvas Ioannou
     cv: |
-      **Position**: MedImmune PhD Student, joined the lab in October 2018  
+      **Position**: AstraZeneca/MedImmune PhD Student, joined the lab in October 2018  
       **Previous positions**: BSc in Biological Sciences and MSc in Biomedical Sciences at the University of Cyprus
     research: Using phage display antibody technology to find new filopodial proteins
     picture: pantelis.jpg
@@ -45,7 +45,7 @@ people:
     
   - name: Pankti Vaishnav
     cv: |
-      **Position**: Wellcome Trust Research Assistant, joined the lab in July 2020  
+      **Position**: Wellcome Trust Research Assistant/PhD student, joined the lab in July 2020  
       **Previous positions**: BSc in Biochemistry, University of Birmingham and MRes in Molecular and Cellular Biosciences, Imperial College, London
     research: Molecular mechanisms of SNX9-mediated actin polymerisation
     picture: Pankti-tn2.jpg

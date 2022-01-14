@@ -54,7 +54,8 @@ people:
     cv: |
       **Position**: MPhil student, joined the lab in October 2021  
       **Previous positions**: BSc in Neuroscience, Kings College London
-    picture:
+    research: SNX9 and filopodia
+    picture: Aminah.jpg
     
 alumni_postdocs:
   - name: Astrid Walrant

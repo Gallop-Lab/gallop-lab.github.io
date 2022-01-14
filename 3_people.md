@@ -5,10 +5,10 @@ people:
 
   - name: Jenny Gallop
     cv: |
-      **2020 - present**: Faculty member, Department of Biochemistry  
-      **2011 - present**: Group Leader, Gurdon Institute  
-      **2011 - 2020**: Affiliated member, Department of Biochemistry  
-      **2006 - 2011**: Postdoc and EMBO fellow in laboratory of Marc Kirschner, Harvard Medical School, Boston, USA  
+      **2020 - present**: Associate Professor, Department of Biochemistry, University of Cambridge  
+      **2011 - present**: Group Leader, Gurdon Institute, University of Cambridge  
+      **2011 - 2020**: Affiliated Research Fellow, Department of Biochemistry  
+      **2006 - 2011**: Postdoc and EMBO Fellow in laboratory of Marc Kirschner, Harvard Medical School, Boston, USA  
       **2001 - 2006**: PhD and short postdoc in Harvey McMahon's lab, MRC Laboratory of Molecular Biology, Cambridge, UK  
       **1997 - 2001**: Masters degree in Biochemistry, Trinity College, University of Oxford, UK  
     research: actin polymerisation, membranes, filopodia formation, cell shape, cell movement, signalling to actin, the membrane-cytosol interface
@@ -25,7 +25,7 @@ people:
     cv: |
       **Position**: Wellcome Trust Research Associate, joined the lab in January 2015.    
       **Previous positions**: BSc Molecular Biology & Biochemistry, Durham University; MRes Newcastle University; PhD and short postdoc in Mette Mogensen's lab at UEA, Norwich, studying microtubule +TIPs in epithelial differentiation and cancer 
-    research: Examining how actin polymerisation is responsive to phosphoinositides and membrane curvature. 
+    research: Examining how actin polymerisation is responsive to phosphoinositides and membrane curvature 
     picture: Jonathan-profile2.jpg
     
   - name: Thomas Blake

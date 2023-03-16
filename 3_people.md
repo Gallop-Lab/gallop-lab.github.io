@@ -35,12 +35,12 @@ people:
     research: Superresolution and rapid timelapse microscopy in studying filopodial initiation and extension
     picture: Tom_portrait.jpg
 
-  - name: Pantelis Savvas Ioannou
+  - name: Mary-Pia Jeyarajasingham
     cv: |
-      **Position**: AstraZeneca/MedImmune PhD Student, joined the lab in October 2018  
-      **Previous positions**: BSc in Biological Sciences and MSc in Biomedical Sciences at the University of Cyprus
+      **Position**: AstraZeneca PhD Student, joined the lab in October 2022  
+      **Previous positions**: MSci in Biomedical Sciences at St Georges, University of London
     research: Using phage display antibody technology to find new filopodial proteins
-    picture: pantelis.jpg
+    picture: 
     
     
   - name: Pankti Vaishnav
@@ -50,12 +50,12 @@ people:
     research: Molecular mechanisms of SNX9-mediated actin polymerisation
     picture: Pankti-tn2.jpg
     
-  - name: Aminah Duha Thomas
+  - name: Alex Sutherland
     cv: |
-      **Position**: MPhil student, joined the lab in October 2021  
-      **Previous positions**: BSc in Neuroscience, Kings College London
-    research: SNX9 and filopodia
-    picture: Aminah.jpg
+      **Position**: MPhil student, joined the lab in October 2022  
+      **Previous positions**: BSc in Bioscience, University of Durham
+    research: PI3K signalling to actin in breast cancer
+    picture: 
     
 alumni_postdocs:
   - name: Astrid Walrant

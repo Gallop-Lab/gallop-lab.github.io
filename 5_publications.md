@@ -7,6 +7,7 @@ header: |
   </style>
 ---
 
+* Filopodial protrusion driven by density-dependent Ena-TOCA-1 interactions. Blake TCA, Fox HM, Urbancic V, Wolowczyk A, Allgeyer ES, Mason J, Gallop JL. bioRxiv 2023.01.04.522504 [[fulltext] (https://doi.org/10.1101/2023.01.04.522504)]
 * Stochastic combinations of actin regulatory proteins are sufficient to drive filopodia formation. Dobramysl U, Jarsch IK, Inoue I, Shimo H, Richier B, Gadsby JR, Mason J, Szalapak A, Ioannou P, Correia Pereira G, Walrant A, Butler R, Hannezo E, Simons BD, Gallop JL. J Cell Biol (2021) 220 (4): e202003052 [[full text](https://doi.org/10.1083/jcb.202003052)]
 * The phosphoinositide 3-kinase inhibitor alpelisib restores actin organization and improves proximal tubule dysfunction in vitro and in a mouse model of Lowe syndrome and Dent disease.  Berquez M, Gadsby JR, Festa BP, Butler R, Jackson SP, Verno V, Luciani A, Devuyst O, Gallop JL. Kidney Int (2020) 98(4):883-896 [[full text](https://www.kidney-international.org/article/S0085-2538(20)30687-6/fulltext)]
 * A direct role for SNX9 in the biogenesis of filopodia.  Jarsch IK, Gadsby JR, Nuccitelli A, Mason J, Shimo H, Pilloux L, Marzook B, Mulvey CM, Dobramysl U, Lilley KS, Hayward RD, Vaughan TJ, Dobson CL, Gallop JL. J Cell Biol (2020) 219 (4): e201909178. [[full text](https://doi.org/10.1083/jcb.201909178)] [[bioRxiv](https://doi.org/10.1101/710285)]

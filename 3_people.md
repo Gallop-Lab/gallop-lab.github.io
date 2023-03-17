@@ -40,7 +40,7 @@ people:
       **Position**: AstraZeneca PhD Student, joined the lab in October 2022  
       **Previous positions**: MSci in Biomedical Sciences at St Georges, University of London
     research: Using phage display antibody technology to find new filopodial proteins
-    picture: 
+    picture: Pia.png
     
     
   - name: Pankti Vaishnav
@@ -55,7 +55,7 @@ people:
       **Position**: MPhil student, joined the lab in October 2022  
       **Previous positions**: BSc in Bioscience, University of Durham
     research: PI3K signalling to actin in breast cancer
-    picture: 
+    picture: Alex.png
     
 alumni_postdocs:
   - name: Astrid Walrant

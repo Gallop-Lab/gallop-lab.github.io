@@ -15,6 +15,9 @@ Since 2011, Jenny's work has been funded by the Wellcome Trust.
 
 ![Wellcome Logo](images/wellcome.jpg){:style="height: 100px;"}
 
+Thank you to the Lowe Syndrome Association for funding our work 2024-2025
+![LSA Logo](images/lsa.jpg){:style="height: 80px;"}
+
 We have also previously been supported by a European Research Council Starting Grant and Equipment and Bridging grants from the Issac Newton Trust.
 
 ![ERC Logo](images/erc.jpg){:style="height: 100px;"}

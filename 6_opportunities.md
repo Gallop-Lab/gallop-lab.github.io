@@ -11,7 +11,7 @@ The lab has trained 10 postdocs, 3 PhD students, 1 MPhil student, 2 research ass
 Funding
 -------
 
-Since 2011, Jenny's work has been funded by the Wellcome Trust.
+We have been grateful for support from Wellcome since 2011
 
 ![Wellcome Logo](images/wellcome.jpg){:style="height: 100px;"}
 
@@ -19,7 +19,7 @@ Thank you to the Lowe Syndrome Association for funding our work 2024-2025
 
 ![LSA Logo](images/LSAlogo.jpg){:style="height: 100px;"}
 
-We have also previously been supported by a European Research Council Starting Grant and Equipment and Bridging grants from the Issac Newton Trust.
+We have also previously been supported by a European Research Council Starting Grant and Equipment and Bridging grants from the Issac Newton Trust
 
 ![ERC Logo](images/erc.jpg){:style="height: 100px;"}
 

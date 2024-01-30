@@ -11,9 +11,9 @@ The lab has trained 10 postdocs, 3 PhD students, 1 MPhil student, 2 research ass
 Funding
 -------
 
-We have been grateful for support from Wellcome since 2011
+Funded by Wellcome
 
-![Wellcome Logo](images/wellcome.jpg){:style="height: 100px;"}
+![Wellcome Logo](images/wellcome.jpg){:style="height: 200px;"}
 
 Thank you to the Lowe Syndrome Association for funding our work 2024-2025
 

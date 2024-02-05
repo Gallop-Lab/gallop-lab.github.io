@@ -111,12 +111,11 @@ alumni_phds_ras:
     comments: |
       former PhD student, now a PostDoc at the Salk Institute.
       Studied the nanoscale structure of filopodial tip complexes (bioRxiv preprint 2019).
+    
     - name: Alex Sutherland
-    cv: |
-     : MPhil student, joined the lab in October 2022  
-       BSc in Bioscience, University of Durham
-    research: PI3K signalling to actin in breast cancer
-    picture: Alex.png
+    comments: |
+      former MPhil student, joined the lab in October 2022
+    
 
 header: |
   <style>

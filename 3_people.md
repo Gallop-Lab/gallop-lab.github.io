@@ -42,80 +42,12 @@ people:
     research: Using phage display antibody technology to find new filopodial proteins
     picture: Pia.png
     
-    
   - name: Pankti Vaishnav
     cv: |
       **Position**: Wellcome Trust Research Assistant/PhD student, joined the lab in July 2020  
       **Previous positions**: BSc in Biochemistry, University of Birmingham and MRes in Molecular and Cellular Biosciences, Imperial College, London
     research: Molecular mechanisms of SNX9-mediated actin polymerisation
-    picture: Pankti-tn2.jpg
-    
-  
-    
-alumni_postdocs:
-  - name: Astrid Walrant
-    comments: |
-      now Maître de conférences at Université Pierre Paris 6, Pierre et Marie Curie.
-      Reconstituted SNX9 actin polymerization in vitro (PNAS 2013, Methods in Cell Biology 2015, JCB, 2017)
-
-  - name: Yoshiko Inoue
-    comments: |
-      now staff at Research Organization of Information and Systems, Japan.
-      Moved to us from Nick Brown's lab, our first Drosophila geneticist, established flies and CRISPR/Cas9 methods in the lab
-
-  - name: Frédéric Daste
-    comments: |
-      now on career break for family and writing new research projects.
-      Elucidated mechanisms of SNX9 in actin polymerization and membrane curvature (JCB review, 2016, JCB article, 2017)
-
-  - name: Vasja Urbančič
-    comments: |
-      now moving into data science.
-      Developed Filopodyan image analysis pipeline in Xenopus retinal ganglion cell growth cones (JCB tools, 2017)
-
-  - name: Claire Mulvey
-    comments: |
-      now working on a Grand Challenge with Greg Hannon at Cambridge Research Institute.
-  
-  - name: Benjamin Richier
-    comments: |
-      Moved back to family in france where he pursues new career opportunities. Joined the lab as drosophila specialist from the Crick institute. Developed live imaging in fly embryos and worked at elucidating the role of integrins in muscle attachments (JCS, 2018).
-
-  - name: Iris Jarsch
-    comments: |
-      Moved back to Germany to pursue new career opportunities. Worked on FLS tip complex protein composition and developed the FLS Ace image analysis pipeline (bioRxiv preprint 2019).
-
-  - name: Bishara Marzook
-    comments: |
-      Now a postdoc in Barry Thompson's Lab at the Crick Institute. Investigated the role of filopodial tip complex proteins during Chlamydia cell invasion.
-            
-  - name: Ulrich Dobramysl
-    cv: |
-      **Position**: Herchel Smith Postdoctoral Fellow, joined the lab in October 2015.  
-      **Previous positions**: Postdoctoral Researcher at the Mathematical Institute, University of Oxford; PhD in Theoretical Physics at Virginia Tech; Diploma in Engineering Physics at Johannes Kepler University Linz, Austria.
-    research: Data-driven modeling of actin dynamics inside filopodia, stochastic modeling of biological processes. [[personal website](http://ulido.github.io)]
-    picture: uli-profile.jpg
-
-alumni_phds_ras:
-  - name: Daniel Saxton
-    comments: |
-      former research assistant, now PhD student at University of Berkeley, USA.
-      Developed methods for looking at filopodia-like structure elongation (Methods in Cell Biology, 2015)
-
-  - name: Helen Fox
-    comments: |
-      former PhD student, now a Project Manager at Eurofins.
-      Looked at roles of Toca-1 interactions in actin polymerization (CSH protocols, 2019; JBC, 2016)
-
-  - name: Hanae Shimo
-    comments: |
-      former PhD student, now a PostDoc at the Salk Institute.
-      Studied the nanoscale structure of filopodial tip complexes (bioRxiv preprint 2019).
-    
-    - name: Alex Sutherland
-    comments: |
-      former MPhil student, joined the lab in October 2022
-    
+    picture: Pankti-tn2.jpg  
 
 header: |
   <style>

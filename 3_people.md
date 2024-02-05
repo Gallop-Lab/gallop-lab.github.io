@@ -109,7 +109,7 @@ alumni_phds_ras:
       former PhD student, now a PostDoc at the Salk Institute.
       Studied the nanoscale structure of filopodial tip complexes (bioRxiv preprint 2019).
     
-    - name: Alex Sutherland
+  - name: Alex Sutherland
     comments: |
       former MPhil student, joined the lab in October 2022
   
